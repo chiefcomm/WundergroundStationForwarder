@@ -21,8 +21,8 @@ const davisApiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const davisApiSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const davisStationName = 'xxxxxxxxxxxxxxxx';
 // or
-const weatherflowPUT = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx';
-const weatherflowStationId = 'xxxxx';
+const weatherflowPUT = '43e2e299-68a2-46f7-98ac-9b5e84c6d37b';
+const weatherflowStationId = '62188';
 // or
 const ambientWeatherStationName = 'xxxxxx';
 const ambientWeatherApiKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
@@ -39,17 +39,17 @@ const customStationLon = 'xx.xxxxxx';
 
 // Sending data
 
-const updateWunderground = false;
-const wundergroundStationID = 'KXXXXXXXXXX';
-const wundergroundStationKey = 'xxxxxxxx';
+const updateWunderground = true;
+const wundergroundStationId = 'ISYDNE2118';
+const wundergroundStationKey = 'AyHd8Glg';
 ///
 const updateWindy = false;
 const windyAPIKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 const windyStationID = '0';
 ///
-const updatePWSWeather = false;
-const pwsWeatherAPIKey = 'XXXXXXXXXXX';
-const pwsWeatherStationID = 'XXXXXXXXXXX';
+const updatePWSWeather = true;
+const pwsWeatherAPIKey = '127cffba5fe8f2128d3f1954fa41c39a';
+const pwsWeatherStationID = 'AUERM01';
 ///
 const updateWeatherCloud = false;
 const weathercloudAPIKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
@@ -57,8 +57,8 @@ const weathercloudID = 'xxxxxxxxxxxxxxxx';
 const hasWeatherCloudPro = false;
 ///
 const updateOpenWeatherMap = false;
-const openWeatherMapAPIKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-const openWeatherMapStationID = 'xxxxxxxxxxxxxxxx';
+const openWeatherMapAPIKey = '3c17de8d301faa7b27b4b90f2c0f2656';
+const openWeatherMapStationID = 'AUERM01'; /// External ID do not use Internal ID code below converts External to Internal
 ///
 const updateWindGuru = false;
 const windGuruStationUID = 'xxxxxxxxxx';
